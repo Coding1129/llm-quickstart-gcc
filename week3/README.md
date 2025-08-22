@@ -16,21 +16,21 @@
 
 ### 作业2-1：
 - 任务描述：使用PEFT库QLoRA微调量化后的ChatGLM3-6B模型，其中训练的max_steps=100。
-- 相关链接：[作业2-1：peft_qlora_chatglm_example.ipynb]()
+- 相关链接：[作业2-1：peft_qlora_chatglm_example.ipynb](https://github.com/Coding1129/llm-quickstart-gcc/blob/main/week3/%E4%BD%9C%E4%B8%9A2-1%EF%BC%9Apeft_qlora_chatglm_example.ipynb)
 
 ### 作业2-2：
 - 任务描述：使用PEFT库QLoRA微调量化后的ChatGLM3-6B模型，其中训练1个完整的数据集遍历（epoch）
-- 相关链接：[作业2-2：peft_qlora_chatglm_10k_linear.ipynb]()
+- 相关链接：[作业2-2：peft_qlora_chatglm_10k_linear.ipynb](https://github.com/Coding1129/llm-quickstart-gcc/blob/main/week3/%E4%BD%9C%E4%B8%9A2-2%EF%BC%9Apeft_qlora_chatglm_10k_linear.ipynb)
 
 ### 作业2-3：
 - 任务描述：使用PEFT库QLoRA微调量化后的ChatGLM3-6B模型，其中训练1个完整的数据集，并针对作业2-2进行参数调整，更适配显卡，训练效果更好，达到了更低的train loss
-- 相关链接：[作业2-3：peft_qlora_chatglm_10k_cosine.ipynb]()
+- 相关链接：[作业2-3：peft_qlora_chatglm_10k_cosine.ipynb](https://github.com/Coding1129/llm-quickstart-gcc/blob/main/week3/%E4%BD%9C%E4%B8%9A2-3%EF%BC%9Apeft_qlora_chatglm_10k_cosine.ipynb)
 
 课程代码（https://github.com/DjangoPeng/LLM-quickstart/blob/main/peft/peft_chatglm_inference.ipynb）
 
 ### 作业2-4：
 - 任务描述：比较作业2-2和作业2-3训练的两个模型在任务上的表现，作业2-3的模型明显更优
-- 相关链接：[作业2-4：peft_chatglm_inference_compare.ipynb]()
+- 相关链接：[作业2-4：peft_chatglm_inference_compare.ipynb](https://github.com/Coding1129/llm-quickstart-gcc/blob/main/week3/%E4%BD%9C%E4%B8%9A2-4%EF%BC%9Apeft_chatglm_inference_compare.ipynb)
 
 ## 补充
 
