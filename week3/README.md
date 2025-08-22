@@ -1,11 +1,13 @@
 ## 📝 作业1：
 
 ### 作业1-1：
-- 任务描述：使用 GPTQ 量化 OPT-6.7B 模型。课程代码（https://github.com/DjangoPeng/LLM-quickstart/blob/main/quantization/AutoGPTQ_opt-2.7b.ipynb）  
+课程代码（https://github.com/DjangoPeng/LLM-quickstart/blob/main/quantization/AutoGPTQ_opt-2.7b.ipynb）
+- 任务描述：使用 GPTQ 量化 OPT-6.7B 模型。  
 - 相关链接：[作业1-1](https://github.com/Coding1129/llm-quickstart-gcc/blob/main/week3/%E4%BD%9C%E4%B8%9A1%EF%BC%9AAutoGPTQ_opt-6.7b.ipynb)
 
 ### 作业1-2：
-- 任务描述：使用 AWQ 量化 Facebook OPT-6.7B 模型。课程代码（https://github.com/DjangoPeng/LLM-quickstart/blob/main/quantization/AWQ-opt-125m.ipynb）  
+课程代码（https://github.com/DjangoPeng/LLM-quickstart/blob/main/quantization/AWQ-opt-125m.ipynb）
+- 任务描述：使用 AWQ 量化 Facebook OPT-6.7B 模型。  
 - 相关链接：[作业1-2](https://github.com/Coding1129/llm-quickstart-gcc/blob/main/week3/%E4%BD%9C%E4%B8%9A2%EF%BC%9AAWQ_opt-6.7b.ipynb)
 
 ---
@@ -92,9 +94,9 @@ Thu Aug 21 16:30:48 2025
 ### 作业2-2和作业2-3的微调效果分析
 作业2-4：peft_chatglm_inference_compare.ipynb 两个模型的输出如下：  
 
-**ChatGLM3-6B liner微调后: 
-这一款连衣裙撞色圆领的设计，修饰脖颈精致优雅。简约的版式，穿着大方优雅，特别有文艺范。精美的印花装饰，精致美丽特别出彩。加上压褶的设计，修饰身材显瘦显高。
-ChatGLM3-6B cosine微调后: 
+**ChatGLM3-6B liner微调后:   
+这一款连衣裙撞色圆领的设计，修饰脖颈精致优雅。简约的版式，穿着大方优雅，特别有文艺范。精美的印花装饰，精致美丽特别出彩。加上压褶的设计，修饰身材显瘦显高。  
+ChatGLM3-6B cosine微调后:   
 连衣裙采用撞色印花图案设计，搭配上精致圆领设计，穿着尽显文艺气息。而其修身版型设计，结合压褶裙摆设计，穿着尽显俏皮可爱气息。简约大方，更显灵动飘逸。**
 
 从生成内容的相关性、丰富度、语言流畅度和风格适配性来看，两个微调配置的输出各有特点，但作业2-3的结果整体表现更优，具体如下：  
